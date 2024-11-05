@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijuneaxi.github.io/Dxp/sitemap_index.txt
+Sitemap: https://ijuneaxi.github.io/HxP/sitemap_index.txt
+Sitemap: https://ijuneaxi.github.io/SCl/sitemap_index.txt
+Sitemap: https://ijuneaxi.github.io/WbM/sitemap_index.txt
